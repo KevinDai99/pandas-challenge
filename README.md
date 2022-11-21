@@ -9,7 +9,7 @@ The key areas of focus are
 
 The main conclusions that I've found are:
 
-1) The Charter School type has a significantly higher % Overall Passing than the District School type. Further, the top five schools are Charter, whereas the bottom 5 schools are District - out of 15 total Schools, suggesting that the disparity is black and white. 
+1) The Charter School type has a significantly higher % Overall Passing than the District School type. Further, the top five schools are Charter, whereas the bottom 5 schools are District - out of 15 total Schools - supporting this conclusion. 
 
-2) The data suggest that school size may be correlated with performance, with smaller to medium sized schools out-performing larger schools (2000 - 5000 students). However, due to a low sample size of n =15, more rigourous analyiss may need to be done to confirm the above. 
+2) The data suggest that school size may be correlated with performance, with smaller to medium sized schools out-performing larger schools (2000 - 5000 students). However, due to a low sample size of n =15, more rigourous analyis is warranted. 
 

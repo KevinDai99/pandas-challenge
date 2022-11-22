@@ -7,7 +7,11 @@ The key areas of focus are
  2) Various joins to merge data
  3) Formating of Data 
 
-The main conclusions that I've found are:
+Summary of Data 
+
+Overall the analysis illustrates the performance of different schools by district, budget per student, school size, and grade. 
+
+The main conclusions are:
 
 1) The Charter School type has a significantly higher % Overall Passing than the District School type. Further, the top five schools are Charter, whereas the bottom 5 schools are District - out of 15 total Schools - supporting this conclusion. 
 
